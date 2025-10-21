@@ -6,7 +6,7 @@
 Use the following command to compile
 
 ```
-clang main.c my_lib.c -lm
+clang main.c mylib.c arraylib.c -lm
 ```
 
 Run using
